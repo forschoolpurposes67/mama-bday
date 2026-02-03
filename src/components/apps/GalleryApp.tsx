@@ -1,18 +1,17 @@
 import { useState } from 'react';
 import { X, ChevronLeft, ChevronRight } from 'lucide-react';
 
-// Placeholder images - user will replace with actual family photos
 const photos = [
-  { id: 1, src: '/placeholder.svg', caption: 'a precious memory 🤍' },
-  { id: 2, src: '/placeholder.svg', caption: 'look at us!! 📸' },
-  { id: 3, src: '/placeholder.svg', caption: 'good times 🌸' },
-  { id: 4, src: '/placeholder.svg', caption: 'my favorite human 💖' },
-  { id: 5, src: '/placeholder.svg', caption: 'best mom ever ✨' },
-  { id: 6, src: '/placeholder.svg', caption: 'adventures together 🌈' },
-  { id: 7, src: '/placeholder.svg', caption: 'pure happiness 🥰' },
-  { id: 8, src: '/placeholder.svg', caption: 'making memories 💫' },
-  { id: 9, src: '/placeholder.svg', caption: 'love this one 🤍' },
-  { id: 10, src: '/placeholder.svg', caption: 'us being us 💕' },
+  { id: 1, src: '/images/image1.jpg', caption: 'a precious memory 🤍' },
+  { id: 2, src: '/images/image2.jpg', caption: 'look at us!! 📸' },
+  { id: 3, src: '/images/image3.jpg', caption: 'good times 🌸' },
+  { id: 4, src: '/images/image4.jpg', caption: 'my favorite human 💖' },
+  { id: 5, src: '/images/image5.jpg', caption: 'best mom ever ✨' },
+  { id: 6, src: '/images/image6.jpg', caption: 'adventures together 🌈' },
+  { id: 7, src: '/images/image7.jpg', caption: 'pure happiness 🥰' },
+  { id: 8, src: '/images/image8.jpg', caption: 'making memories 💫' },
+  { id: 9, src: '/images/image9.jpg', caption: 'love this one 🤍' },
+  { id: 10, src: '/images/image10.jpg', caption: 'us being us 💕' },
 ];
 
 const GalleryApp = () => {
