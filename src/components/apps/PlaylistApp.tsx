@@ -6,6 +6,7 @@ interface Track {
   title: string;
   artist: string;
   cover: string;
+  audio: string;
   message: string;
   duration: string;
 }
@@ -15,7 +16,8 @@ const playlist: Track[] = [
     id: 1,
     title: "Multo",
     artist: "Cup of Joe",
-    cover: "/placeholder.svg",
+    cover: "/images/music1.jpg",
+    audio: "/music1.mp4",
     message: "this reminded me when i was blasting music in my room and you told me you knew this song ^^",
     duration: "4:23"
   },
@@ -23,7 +25,8 @@ const playlist: Track[] = [
     id: 2,
     title: "Ethereal",
     artist: "Txmy",
-    cover: "/placeholder.svg",
+    cover: "/images/music2.jpg",
+    audio: "/music2.mp4",
     message: "this song is dreamy and calm just like you 👀👀",
     duration: "3:45"
   },
@@ -31,7 +34,8 @@ const playlist: Track[] = [
     id: 3,
     title: "Piano Concerto No. 2 in C Minor, Op. 18: II. Adagio sostenuto",
     artist: "Sergei Rachmaninoff",
-    cover: "/placeholder.svg",
+    cover: "/images/music3.jpg",
+    audio: "/music3.mp4",
     message: "the peak of the piece just makes me think of the emotions and nostalgia we've been through 🤍",
     duration: "12:34"
   }
