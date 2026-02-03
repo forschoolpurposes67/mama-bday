@@ -65,7 +65,7 @@ const SurpriseApp = () => {
         </div>
 
         <h1 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
-          happy birthday, mom! 🎂
+          happy birthday, mommy! 🎂
         </h1>
 
         <p className="text-lg text-muted-foreground mb-8 max-w-sm">
@@ -85,7 +85,7 @@ const SurpriseApp = () => {
               i just want you to know that no matter how old i get, i'll always be your little girl. 
               you're my first best friend and my forever home. 
               <br /><br />
-              i love you to the moon and back, mom. 
+              i love you to the moon and back, mommy. 
               <br />
               <span className="text-primary font-medium">forever and always 🤍</span>
             </p>

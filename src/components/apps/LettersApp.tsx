@@ -10,11 +10,12 @@ thank you for being my biggest supporter, my comfort zone, and my home. thank yo
 
 you've taught me what it means to love unconditionally, to be strong in the face of challenges, and to always find joy in the little things. i hope this little "operating system" brings a smile to your face 💖
 
-i love you more than all the stars in the sky, all the grains of sand on the beach, and all the coffee you've ever made me drink (that's a lot btw).
+i love you more than all the stars in the sky, all the grains of sand on the beach, and all the love you've given to our family (that's a lot btw).
 
 here's to another year of being the coolest mom ever!
 
 with all my love and a million hugs,
+
 your wonderful daughter 🤍`;
 
 const LettersApp = () => {
