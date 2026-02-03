@@ -6,12 +6,11 @@ const photos = [
   { id: 2, src: '/images/image2.jpg', caption: 'look at us!! 📸' },
   { id: 3, src: '/images/image3.jpg', caption: 'good times 🌸' },
   { id: 4, src: '/images/image4.jpg', caption: 'my favorite human 💖' },
-  { id: 5, src: '/images/image5.jpg', caption: 'best mom ever ✨' },
+  { id: 5, src: '/images/image5.jpg', caption: 'best mommy ever ✨' },
   { id: 6, src: '/images/image6.jpg', caption: 'adventures together 🌈' },
   { id: 7, src: '/images/image7.jpg', caption: 'pure happiness 🥰' },
   { id: 8, src: '/images/image8.jpg', caption: 'making memories 💫' },
-  { id: 9, src: '/images/image9.jpg', caption: 'love this one 🤍' },
-  { id: 10, src: '/images/image10.jpg', caption: 'us being us 💕' },
+  { id: 9, src: '/images/image9.jpg', caption: 'us being us 💕' },
 ];
 
 const GalleryApp = () => {
