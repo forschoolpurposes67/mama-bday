@@ -90,14 +90,9 @@
     font-family: 'Quicksand', sans-serif;
   }
 
-  /* Desktop wallpaper gradient */
+  /* Desktop wallpaper */
   .desktop-wallpaper {
-    background: linear-gradient(
-      135deg,
-      hsl(var(--desktop-gradient-start)) 0%,
-      hsl(var(--desktop-gradient-end)) 50%,
-      hsl(340 50% 88%) 100%
-    );
+    background: url('/background.jpg') center/cover no-repeat;
   }
 
   /* Boot screen styles */

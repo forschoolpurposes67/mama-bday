@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Heart, Star, Sparkles, Sun, Coffee, Home } from 'lucide-react';
+import { Heart, Star, Sparkles, Sun, Home } from 'lucide-react';
 
 const appreciations = [
   {
@@ -13,9 +13,9 @@ const appreciations = [
     detail: "even when i doubt myself, you never do. you see the best in me and push me to be better every day ⭐"
   },
   {
-    icon: <Coffee className="w-5 h-5" />,
+    icon: <Heart className="w-5 h-5" />,
     title: "the little things",
-    detail: "the morning coffee, the random snacks, checking if i've eaten... these small acts of love mean the world to me ☕"
+    detail: "the random snacks, checking if i've eaten, making sure i'm okay... these small acts of love mean the world to me 🤍"
   },
   {
     icon: <Sun className="w-5 h-5" />,
